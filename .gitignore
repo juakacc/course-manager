@@ -9,6 +9,8 @@
 
 # dependencies
 /node_modules
+/src/assets/server/node_modules
+/src/assets/server/package-lock.json
 
 # profiling files
 chrome-profiler-events*.json
